@@ -1,0 +1,16 @@
+# Blender MTL File: 'knight.blend'
+# Material Count: 1
+
+newmtl marble01
+Ns 728.999998
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.578182 0.578182 0.578182
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump marble01_NM.png
+map_Ns marble01_RN.png
+map_Kd marble01_BC.png
+map_Ka marble01_AO.png

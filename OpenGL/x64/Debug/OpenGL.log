@@ -1,0 +1,7 @@
+﻿  Application.cpp
+D:\Development\CPP_Projects\OpenGL\OpenGL\Headers\Window.h(15,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Development\CPP_Projects\OpenGL\OpenGL\Headers\Window.h(16,35): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Development\CPP_Projects\OpenGL\OpenGL\src\Application.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+D:\Development\CPP_Projects\OpenGL\OpenGL\src\Application.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+D:\Development\CPP_Projects\OpenGL\OpenGL\src\Application.cpp(195,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> D:\Development\CPP_Projects\OpenGL\x64\Debug\OpenGL.exe
